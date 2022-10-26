@@ -1,0 +1,6 @@
+{
+    "ClientID":"",
+    "AppID":"",
+    "SecretID":"",
+    "RedirectURI":"http://localhost:8080/fyers/api/success"
+}
